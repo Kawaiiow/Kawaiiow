@@ -14,3 +14,6 @@ Right now, I'm studying in Faculty of Information Technology at KMITL
 ### Also, I'm working on 🔨
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=IT_KMITL_PSCP24&theme=dark)](https://github.com/Kawaiiow/IT_KMITL_PSCP24)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=Sort_Swap_Salty&theme=dark)](https://github.com/Kawaiiow/Sort_Swap_Salty)
+</br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=C_Sideclimb&theme=dark)](https://github.com/Kawaiiow/Sort_Swap_Salty)

@@ -16,4 +16,4 @@ Right now, I'm studying in Faculty of Information Technology at KMITL
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=Sort_Swap_Salty&theme=dark)](https://github.com/Kawaiiow/Sort_Swap_Salty)
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=C_Sideclimb&theme=dark)](https://github.com/Kawaiiow/Sort_Swap_Salty)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=C_Sideclimb&theme=dark)](https://github.com/Kawaiiow/C_Sideclimb)

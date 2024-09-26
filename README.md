@@ -1,5 +1,6 @@
 ## Hi, 🤌
 Right now, I'm studying in Faculty of Information Technology at KMITL
+Also studying in commoncore cursus of 42Bangkok
 
 ### Currently, I’m learning 🌱
 * Python

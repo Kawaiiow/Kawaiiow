@@ -13,8 +13,9 @@ Also studying in commoncore cursus of 42Bangkok
 </br>
 
 ### Also, I'm working on 🔨
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=IT_KMITL_PSCP24&theme=dark)](https://github.com/Kawaiiow/IT_KMITL_PSCP24)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=Sort_Swap_Salty&theme=dark)](https://github.com/Kawaiiow/Sort_Swap_Salty)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=IT_KMITL_PHYCOM_2025&theme=dark)](https://github.com/Kawaiiow/IT_KMITL_PHYCOM_2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=IT_KMITL_OOP_2024&theme=dark)](https://github.com/Kawaiiow/IT_KMITL_OOP_2024)
 </br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=C_Sideclimb&theme=dark)](https://github.com/Kawaiiow/C_Sideclimb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=IT_KMITL_DSA_2024&theme=dark)](https://github.com/Kawaiiow/IT_KMITL_DSA_2024)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kawaiiow&repo=IT_KMITL_PSCP24&theme=dark)](https://github.com/Kawaiiow/IT_KMITL_PSCP24)
+</br>
